@@ -1,5 +1,5 @@
 {
-  "open_with": [
+  "apps": [
     {
       "name": "IntelliJ IDEA",
       "command": ["/usr/local/bin/idea", "{filename}:{line}"]

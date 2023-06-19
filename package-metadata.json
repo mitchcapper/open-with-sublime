@@ -1,0 +1,1 @@
+{"platforms": ["*"], "dependencies": [], "description": "Contet menu open with", "url": "https://github.com/mitchcapper/open-with-sublime", "version": "0.3.0", "sublime_text": ">=3000"}
